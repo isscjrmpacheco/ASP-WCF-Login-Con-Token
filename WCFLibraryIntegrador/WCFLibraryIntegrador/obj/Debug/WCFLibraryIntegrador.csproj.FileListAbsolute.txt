@@ -1,0 +1,15 @@
+D:\Carlos\Escritorio\WCFLibraryIntegrador\WCFLibraryIntegrador\bin\Debug\WCFLibraryIntegrador.dll.config
+D:\Carlos\Escritorio\WCFLibraryIntegrador\WCFLibraryIntegrador\bin\Debug\WCFLibraryIntegrador.dll
+D:\Carlos\Escritorio\WCFLibraryIntegrador\WCFLibraryIntegrador\bin\Debug\WCFLibraryIntegrador.pdb
+D:\Carlos\Escritorio\WCFLibraryIntegrador\WCFLibraryIntegrador\obj\Debug\WCFLibraryIntegrador.csprojResolveAssemblyReference.cache
+D:\Carlos\Escritorio\WCFLibraryIntegrador\WCFLibraryIntegrador\obj\Debug\WCFLibraryIntegrador.csproj.CoreCompileInputs.cache
+D:\Carlos\Escritorio\WCFLibraryIntegrador\WCFLibraryIntegrador\obj\Debug\WCFLibraryIntegrador.dll
+D:\Carlos\Escritorio\WCFLibraryIntegrador\WCFLibraryIntegrador\obj\Debug\WCFLibraryIntegrador.pdb
+C:\inetpub\wwwISSC311\WCFLibraryIntegrador\WCFLibraryIntegrador\bin\Debug\WCFLibraryIntegrador.dll.config
+C:\inetpub\wwwISSC311\WCFLibraryIntegrador\WCFLibraryIntegrador\bin\Debug\WCFLibraryIntegrador.dll
+C:\inetpub\wwwISSC311\WCFLibraryIntegrador\WCFLibraryIntegrador\bin\Debug\WCFLibraryIntegrador.pdb
+C:\inetpub\wwwISSC311\WCFLibraryIntegrador\WCFLibraryIntegrador\obj\Debug\WCFLibraryIntegrador.dll
+C:\inetpub\wwwISSC311\WCFLibraryIntegrador\WCFLibraryIntegrador\obj\Debug\WCFLibraryIntegrador.pdb
+C:\inetpub\wwwISSC311\WCFLibraryIntegrador\WCFLibraryIntegrador\bin\Debug\RNConnection.dll
+C:\inetpub\wwwISSC311\WCFLibraryIntegrador\WCFLibraryIntegrador\bin\Debug\RNConnection.pdb
+C:\inetpub\wwwISSC311\WCFLibraryIntegrador\WCFLibraryIntegrador\obj\Debug\WCFLibraryIntegrador.csprojResolveAssemblyReference.cache

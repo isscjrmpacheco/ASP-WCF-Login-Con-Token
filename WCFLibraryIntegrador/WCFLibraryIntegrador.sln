@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFLibraryIntegrador", "WCFLibraryIntegrador\WCFLibraryIntegrador.csproj", "{870F53A6-1270-4A5B-B5D4-24684F049CF7}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WCFLoginIntegrador", "http://localhost:83/WCFLoginIntegrador", "{9B0E8B1B-9025-4782-98AC-BC05C799CEE2}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		ProjectReferences = "{870f53a6-1270-4a5b-b5d4-24684f049cf7}|WCFLibraryIntegrador.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/WCFLoginIntegrador"
+		Debug.AspNetCompiler.PhysicalPath = "..\WCFLoginIntegrador\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WCFLoginIntegrador\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WCFLoginIntegrador"
+		Release.AspNetCompiler.PhysicalPath = "..\WCFLoginIntegrador\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WCFLoginIntegrador\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\WCFLoginIntegrador\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSiteWCFLoginIntegrador", "http://localhost:83/WebSiteWCFLoginIntegrador", "{92046164-4672-4D2D-9E86-83ABE058DFC7}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/WebSiteWCFLoginIntegrador"
+		Debug.AspNetCompiler.PhysicalPath = "..\WebSiteWCFLoginIntegrador\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebSiteWCFLoginIntegrador\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WebSiteWCFLoginIntegrador"
+		Release.AspNetCompiler.PhysicalPath = "..\WebSiteWCFLoginIntegrador\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebSiteWCFLoginIntegrador\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\WebSiteWCFLoginIntegrador\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{870F53A6-1270-4A5B-B5D4-24684F049CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870F53A6-1270-4A5B-B5D4-24684F049CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870F53A6-1270-4A5B-B5D4-24684F049CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870F53A6-1270-4A5B-B5D4-24684F049CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B0E8B1B-9025-4782-98AC-BC05C799CEE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0E8B1B-9025-4782-98AC-BC05C799CEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0E8B1B-9025-4782-98AC-BC05C799CEE2}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0E8B1B-9025-4782-98AC-BC05C799CEE2}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{92046164-4672-4D2D-9E86-83ABE058DFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92046164-4672-4D2D-9E86-83ABE058DFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92046164-4672-4D2D-9E86-83ABE058DFC7}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{92046164-4672-4D2D-9E86-83ABE058DFC7}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EAF9C02-F1EB-412F-B9C2-C3218E32F7F4}
+	EndGlobalSection
+EndGlobal
